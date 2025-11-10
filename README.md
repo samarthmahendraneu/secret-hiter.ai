@@ -124,29 +124,13 @@ Each AI agent has a unique personality combining:
 - **Win rate tracking** (can be extended)
 - **Decision pattern analysis** (can be extended)
 
-## Future Enhancements
 
-### Planned Features
-- [ ] Support for 7-10 player games
-- [ ] Advanced AI strategies using reinforcement learning
-- [ ] Game replay and analysis tools
-- [ ] Tournament mode with statistics tracking
-- [ ] Web interface for multiplayer games
-- [ ] Custom personality creation system
-
-### Potential Improvements
-- Enhanced bluffing algorithms
-- Coalition detection systems
-- Meta-game strategy adaptation
-- Performance analytics dashboard
 
 ## Contributing
 
 Contributions are welcome! Areas of interest:
 - AI strategy improvements
-- UI/UX enhancements
-- Statistical analysis tools
-- Documentation and tutorials
+
 
 ## License
 
